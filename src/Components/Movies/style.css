@@ -1,0 +1,6 @@
+/* movies */
+.movies-container {
+	display: flex;
+	align-items: start;
+	gap: 2rem;
+}
